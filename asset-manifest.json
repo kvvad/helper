@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/helper/static/css/main.5d7d7745.chunk.css",
-    "main.js": "/helper/static/js/main.c739c2cf.chunk.js",
-    "main.js.map": "/helper/static/js/main.c739c2cf.chunk.js.map",
-    "runtime-main.js": "/helper/static/js/runtime-main.cdb458c4.js",
-    "runtime-main.js.map": "/helper/static/js/runtime-main.cdb458c4.js.map",
-    "static/js/2.c049c454.chunk.js": "/helper/static/js/2.c049c454.chunk.js",
-    "static/js/2.c049c454.chunk.js.map": "/helper/static/js/2.c049c454.chunk.js.map",
-    "index.html": "/helper/index.html",
-    "precache-manifest.bdb8cbfb3a21886e6df233d26d9052f6.js": "/helper/precache-manifest.bdb8cbfb3a21886e6df233d26d9052f6.js",
-    "service-worker.js": "/helper/service-worker.js",
-    "static/css/main.5d7d7745.chunk.css.map": "/helper/static/css/main.5d7d7745.chunk.css.map",
-    "static/js/2.c049c454.chunk.js.LICENSE.txt": "/helper/static/js/2.c049c454.chunk.js.LICENSE.txt",
-    "static/media/copy.svg": "/helper/static/media/copy.8648c684.svg",
-    "static/media/print.svg": "/helper/static/media/print.aed53281.svg"
+    "main.css": "./static/css/main.5d7d7745.chunk.css",
+    "main.js": "./static/js/main.c739c2cf.chunk.js",
+    "main.js.map": "./static/js/main.c739c2cf.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.38000a44.js",
+    "runtime-main.js.map": "./static/js/runtime-main.38000a44.js.map",
+    "static/js/2.c049c454.chunk.js": "./static/js/2.c049c454.chunk.js",
+    "static/js/2.c049c454.chunk.js.map": "./static/js/2.c049c454.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.a599a7f2030d5afe8586cc396505cea3.js": "./precache-manifest.a599a7f2030d5afe8586cc396505cea3.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.5d7d7745.chunk.css.map": "./static/css/main.5d7d7745.chunk.css.map",
+    "static/js/2.c049c454.chunk.js.LICENSE.txt": "./static/js/2.c049c454.chunk.js.LICENSE.txt",
+    "static/media/copy.svg": "./static/media/copy.8648c684.svg",
+    "static/media/print.svg": "./static/media/print.aed53281.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cdb458c4.js",
+    "static/js/runtime-main.38000a44.js",
     "static/js/2.c049c454.chunk.js",
     "static/css/main.5d7d7745.chunk.css",
     "static/js/main.c739c2cf.chunk.js"
