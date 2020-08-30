@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/helper2/static/css/main.5d7d7745.chunk.css",
-    "main.js": "/helper2/static/js/main.c739c2cf.chunk.js",
-    "main.js.map": "/helper2/static/js/main.c739c2cf.chunk.js.map",
-    "runtime-main.js": "/helper2/static/js/runtime-main.08d16b8d.js",
-    "runtime-main.js.map": "/helper2/static/js/runtime-main.08d16b8d.js.map",
-    "static/js/2.c049c454.chunk.js": "/helper2/static/js/2.c049c454.chunk.js",
-    "static/js/2.c049c454.chunk.js.map": "/helper2/static/js/2.c049c454.chunk.js.map",
-    "index.html": "/helper2/index.html",
-    "precache-manifest.ac91291d195ac1e46697fa29441e41cd.js": "/helper2/precache-manifest.ac91291d195ac1e46697fa29441e41cd.js",
-    "service-worker.js": "/helper2/service-worker.js",
-    "static/css/main.5d7d7745.chunk.css.map": "/helper2/static/css/main.5d7d7745.chunk.css.map",
-    "static/js/2.c049c454.chunk.js.LICENSE.txt": "/helper2/static/js/2.c049c454.chunk.js.LICENSE.txt",
-    "static/media/copy.svg": "/helper2/static/media/copy.8648c684.svg",
-    "static/media/print.svg": "/helper2/static/media/print.aed53281.svg"
+    "main.css": "/helper/static/css/main.5d7d7745.chunk.css",
+    "main.js": "/helper/static/js/main.c739c2cf.chunk.js",
+    "main.js.map": "/helper/static/js/main.c739c2cf.chunk.js.map",
+    "runtime-main.js": "/helper/static/js/runtime-main.cdb458c4.js",
+    "runtime-main.js.map": "/helper/static/js/runtime-main.cdb458c4.js.map",
+    "static/js/2.c049c454.chunk.js": "/helper/static/js/2.c049c454.chunk.js",
+    "static/js/2.c049c454.chunk.js.map": "/helper/static/js/2.c049c454.chunk.js.map",
+    "index.html": "/helper/index.html",
+    "precache-manifest.bdb8cbfb3a21886e6df233d26d9052f6.js": "/helper/precache-manifest.bdb8cbfb3a21886e6df233d26d9052f6.js",
+    "service-worker.js": "/helper/service-worker.js",
+    "static/css/main.5d7d7745.chunk.css.map": "/helper/static/css/main.5d7d7745.chunk.css.map",
+    "static/js/2.c049c454.chunk.js.LICENSE.txt": "/helper/static/js/2.c049c454.chunk.js.LICENSE.txt",
+    "static/media/copy.svg": "/helper/static/media/copy.8648c684.svg",
+    "static/media/print.svg": "/helper/static/media/print.aed53281.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.08d16b8d.js",
+    "static/js/runtime-main.cdb458c4.js",
     "static/js/2.c049c454.chunk.js",
     "static/css/main.5d7d7745.chunk.css",
     "static/js/main.c739c2cf.chunk.js"
